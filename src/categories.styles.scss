@@ -1,0 +1,14 @@
+.categories-container {
+    background-color: red(red);
+    padding: 10px;
+
+    .categories-container .category-container {
+        background-color: red(green);
+        padding: 20px;
+
+        .categories-container .category-container .category-body-container {
+            background-color: red(blue);
+            padding: 30px;
+        }
+    }
+}
